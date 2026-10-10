@@ -1,0 +1,15 @@
+.favorites-page {
+  padding: 40px;
+}
+
+.favorites-page h1 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.favorites-page .listings {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+}
